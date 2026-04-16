@@ -1,0 +1,25 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+.pytest_cache/
+.venv/
+venv/
+
+# Data files (download via geo_loader)
+data/*.gz
+data/*.pkl
+data/*.csv
+data/*.txt
+!data/.gitkeep
+
+# Model weights (regenerate via train.py)
+results/*.pt
+results/*.png
+results/*.jpg
+
+# OS
+.DS_Store
+Thumbs.db
