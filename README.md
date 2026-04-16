@@ -72,7 +72,7 @@ The pipeline auto-downloads three Illumina 450K whole-blood cohorts from GEO:
 ## Installation
 
 ```bash
-git clone https://github.com/yusuf4lp/spectral-age.git
+git clone https://github.com/4lptek1n/spectral-age.git
 cd spectral-age
 pip install torch numpy scipy pandas scikit-learn matplotlib requests
 ```
@@ -176,10 +176,10 @@ If this work is useful in your research, please cite:
 
 ```bibtex
 @software{spectralage2025,
-  author = {Keser, Yusuf},
+  author = {Keser, Alptekin},
   title  = {SpectralAge: a frequency-domain neural network for epigenetic age prediction},
   year   = {2025},
-  url    = {https://github.com/yusuf4lp/spectral-age}
+  url    = {https://github.com/4lptek1n/spectral-age}
 }
 ```
 
@@ -202,4 +202,4 @@ Contributions, bug reports, and methodological critiques are welcome. Open an is
 
 ## Contact
 
-Yusuf Keser — kesermkkdkd@gmail.com
+Alptekin Keser — keseralptekin@gmail.com
